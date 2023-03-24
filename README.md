@@ -4,6 +4,9 @@ Probé 60 modelos de AI upscaling hechos con PyTorch para agrandar los gráficos
 
 Los 4 mejores son: 2x_Gen5-Alpha_175000_G, [2x_Bubble_AnimeScale_SwinIR_Small_v1](https://github.com/Bubblemint864/AI-Models), 2x_FakeFaith-Lite_105000_G y [XbrWasm](https://www.maxlaumeister.com/xbr-wasm/).
 
+### Herramienta: [chaiNNer](https://chainner.app/)
+
+![](https://github.com/ominousg/ao-assets-upscaling/blob/main/ejemplo-chaiNNer.png?raw=true)
 
 ### Ejemplos
 
