@@ -4,27 +4,48 @@ Probé 60 modelos de AI upscaling hechos con PyTorch para agrandar los gráficos
 
 Los 4 mejores son: 2x_Gen5-Alpha_175000_G, [2x_Bubble_AnimeScale_SwinIR_Small_v1](https://github.com/Bubblemint864/AI-Models), 2x_FakeFaith-Lite_105000_G y [XbrWasm](https://www.maxlaumeister.com/xbr-wasm/).
 
+
 ### Ejemplos
 
 Placas +2 - Spritesheet personaje (2x_Gen5-Alpha_175000_G)
 
+![](https://github.com/ominousg/ao-assets-upscaling/blob/main/armadura-spritesheet-upscale.png?raw=true)
+
 Placas +2 - Item
 
-Vestimenta item
+![](https://github.com/ominousg/ao-assets-upscaling/blob/main/armadura-item-upscale.png)
 
-Vestimenta spritesheet
+Vestimenta - Spritesheet personaje
+
+![](https://github.com/ominousg/ao-assets-upscaling/blob/main/vestimenta-spritesheet-upscale.png?raw=true)
+
+Vestimenta - Item
+
+![](https://github.com/ominousg/ao-assets-upscaling/blob/main/vestimenta-item-upscale.png?raw=true)
+
+Túnica - Spritesheet personaje
+
+![](https://github.com/ominousg/ao-assets-upscaling/blob/main/tunica-spritesheet-upscale.png?raw=true)
+
+Túnica - Item
+
+![](https://github.com/ominousg/ao-assets-upscaling/blob/main/tunica-item-upscale.png?raw=true)
 
 Liche (2x_Gen5-Alpha_175000_G)
 
+![](https://github.com/ominousg/ao-assets-upscaling/blob/main/liche-upscale.png?raw=true)
+
 Ogro (2x_Gen5-Alpha_175000_G)
+
+![](https://github.com/ominousg/ao-assets-upscaling/blob/main/ogro-upscale.png?raw=true)
 
 Estatua
 
+![](https://github.com/ominousg/ao-assets-upscaling/blob/main/estatua-upscale.png?raw=true)
 
 
 
-
-Fuentes:
+### Fuentes:
 
 [/r/GameUpscale](https://old.reddit.com/r/GameUpscale/)
 
