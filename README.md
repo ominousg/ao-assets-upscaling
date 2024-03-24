@@ -2,7 +2,7 @@
 
 ## Stable Diffusion
 
-Agrandamiento y remasterización de varios gráficos del Argentum Online usando un [modelo open-source de Stable Diffusion](https://old.reddit.com/r/StableDiffusion/comments/1bfnia0/magnific_ai_upscaler_has_been_reverse_enginered/) llamado [Clarity Upscaler](https://github.com/philz1337x/clarity-upscaler) que busca emular el modelo closed-source [Magnific AI](https://magnific.ai/). Se puede probar gratis un par de veces en [Replicate](https://replicate.com/philz1337x/clarity-upscaler). Para mejores resultados, primero agrando el gráfico original usando el modelo de ESRGAN 2x_FakeFaith-Lite_105000_G y después lo agrando-remasterizo usando Clarity Upscaler. Es decir, el resultado final es 4 veces más grande que el gráfico original, mejorandole la calidad y -algunas veces- remasterizando el diseño con detalles nuevos que el Clarity Upscaler agregó por su cuenta.
+Agrandamiento y remasterización de varios gráficos del Argentum Online usando un [modelo open-source de Stable Diffusion](https://old.reddit.com/r/StableDiffusion/comments/1bfnia0/magnific_ai_upscaler_has_been_reverse_enginered/) llamado [Clarity Upscaler](https://github.com/philz1337x/clarity-upscaler) que busca emular el modelo closed-source [Magnific AI](https://magnific.ai/). Se puede probar gratis un par de veces en [Replicate](https://replicate.com/philz1337x/clarity-upscaler). Para mejores resultados, primero agrando el gráfico original usando el modelo de ESRGAN 2x_FakeFaith-Lite_105000_G con ChaiNNer y después lo agrando-remasterizo usando Clarity Upscaler. Es decir, el resultado final es 4 veces más grande que el gráfico original, mejorandole la calidad y -algunas veces- remasterizando el diseño con detalles nuevos que el Clarity Upscaler agregó por su cuenta. Clarity también puede hacer downscaling de las imágenes para achicarlas tratando de mantener la calidad y diseño original.
 
 ### Video con comparaciones side-by-side
 
@@ -51,6 +51,7 @@ Los 4 mejores son: 2x_Gen5-Alpha_175000_G, [2x_Bubble_AnimeScale_SwinIR_Small_v1
 ### Herramienta: [chaiNNer](https://chainner.app/)
 
 ![](https://github.com/ominousg/ao-assets-upscaling/blob/main/upscaled_ESRGAN/ejemplo-chaiNNer.png?raw=true)
+Tutorial: [como upscalear todas las imágenes en un directorio](https://youtu.be/FiB8kIgvzok?si=-lXvfUPSm-elB1ef&t=358).
 
 ### Ejemplos
 
