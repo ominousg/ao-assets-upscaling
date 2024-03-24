@@ -1,0 +1,12 @@
+https://replicate.com/philipp1337x/clarity-upscaler
+
+parametros default:
+prompt: masterpiece, best quality, highres, <lora:more_details:0.5> <lora:SDXLrender_v2.0:1>
+negative_prompt: (worst quality, low quality, normal quality:2) JuggernautNegative-neg
+scale_factor: 2
+dynamic (HDR): 6
+creativity: 0.35
+resemblance: 0.6
+scheduler: DPM++ 3M SDE Karras
+num_inference_steps (Number of denoising steps): 16
+seed: 1337
