@@ -7,7 +7,7 @@ Agrandamiento y remasterización de varios gráficos del Argentum Online usando 
 ### Video con comparaciones side-by-side
 
 <a href="https://www.youtube.com/watch?v=T_enS5HZEQE" target="_blank">
- <img src="https://github.com/ominousg/ao-assets-upscaling/blob/main/upscaled_Stable_Diffusion/djinn_comparacion.png?raw=true" alt="Video con comparaciones side-by-side" width="600" />
+ <img src="https://github.com/ominousg/ao-assets-upscaling/blob/main/upscaled_Stable_Diffusion/djinn_comparacion.png?raw=true" alt="Video con comparaciones side-by-side" width="800" />
 </a>
 
 
@@ -29,7 +29,7 @@ Piano
 
 ![](https://github.com/ominousg/ao-assets-upscaling/blob/main/upscaled_Stable_Diffusion/Piano.png?raw=true)
 
-Arbol 3
+Árbol 3
 
 ![](https://github.com/ominousg/ao-assets-upscaling/blob/main/upscaled_Stable_Diffusion/Arbol_3.png?raw=true)
 
@@ -41,10 +41,14 @@ Carreta
 
 ![](https://github.com/ominousg/ao-assets-upscaling/blob/main/upscaled_Stable_Diffusion/Carreta.png?raw=true)
 
+Árbol 4
+
+![](https://github.com/ominousg/ao-assets-upscaling/blob/main/upscaled_Stable_Diffusion/Arbol_4.png?raw=true)
+
 
 ## ESRGAN (PyTorch)
 
-Probé 60 modelos de upscaling hechos con PyTorch para agrandar los gráficos del AO. Salieron mejor de lo que esperaba pero le falta unos retoques. ~~Capaz en el futuro entrene un modelo para generar resultados mas parecidos al gráfico original~~ ya no es necesario gracias a los modelos fine-tuneados de Stable Diffusion.
+Probé 60 modelos de upscaling hechos con PyTorch para agrandar los gráficos del AO. Salieron mejor de lo que esperaba pero le falta unos retoques. Capaz en el futuro entrene un modelo para generar resultados mas parecidos al gráfico original.
 
 Los 4 mejores son: 2x_Gen5-Alpha_175000_G, [2x_Bubble_AnimeScale_SwinIR_Small_v1](https://github.com/Bubblemint864/AI-Models), 2x_FakeFaith-Lite_105000_G y [XbrWasm](https://www.maxlaumeister.com/xbr-wasm/).
 
